@@ -1,2 +1,2 @@
 # hello-world
-Just a student learning programming and how to use git
+Just a student learning programming and how to use github
